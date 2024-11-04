@@ -1,57 +1,42 @@
-# Nome do Projeto
+# Olá, eu sou o Cauan Gabriel Matos Silva! 👋
 
-![Versão](https://img.shields.io/badge/versão-1.0-blue)
-![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-orange)
-![Licença](https://img.shields.io/badge/licença-MIT-green)
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=CauanTheSeele33&show_icons=true&theme=dracula)](https://github.com/CauanTheSeele33)
 
-Descrição breve e objetiva do projeto, destacando seu propósito e principais funcionalidades.
+Desenvolvedor em formação com foco em projetos práticos para explorar web development, animações temáticas e inteligência artificial. 
 
-## Índice
+## 🚀 Projetos Principais
 
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Testes](#testes)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
+### 🍔 Rei das Mordidas
 
-## Sobre o Projeto
+Projeto de catálogo de hambúrgueres com **HTML/CSS**. A hospedagem foi feita com **FileZilla** no **InfinityFree**. Uma experiência prática que desenvolveu habilidades em **web hosting**.
 
-Explique o objetivo do projeto e o problema que ele resolve. Fale um pouco sobre como ele foi idealizado e seus principais benefícios.
+🔗 [Acesse o Projeto](https://lnkd.in/drepDiej)
 
-## Funcionalidades
+### 🎓 Projeto SIC MUNDUS - UNICEPLAC
 
-- **Funcionalidade 1**: Descrição da funcionalidade 1
-- **Funcionalidade 2**: Descrição da funcionalidade 2
-- **Funcionalidade 3**: Descrição da funcionalidade 3
+Projeto acadêmico em **C** desenvolvido para a disciplina de Algoritmos e Programação. Colaborei no desenvolvimento de código e criação de uma animação temática com edição em **After Effects** e **Photoshop**.
 
-## Tecnologias Utilizadas
+🔗 [Código Parcial](https://lnkd.in/dEf38x3A) | [Código Final](https://lnkd.in/d7UPYigU) | [Animação](https://lnkd.in/ddhk5Jms)
 
-Essas são as principais tecnologias e frameworks usados neste projeto:
+### 📊 Workshop de Inteligência Artificial - Imersão Zero
 
-- [Node.js](https://nodejs.org/) - Runtime JavaScript para execução do servidor
-- [Express](https://expressjs.com/) - Framework de servidor para Node.js
-- [MongoDB](https://www.mongodb.com/) - Banco de dados NoSQL
-- [React](https://reactjs.org/) - Biblioteca para construção de interfaces de usuário
+Apresentei um projeto sobre IA textual e generativa para jovens aprendizes no **Sest Senat**. Elaborei slides no **PowerPoint** e colaborei na apresentação.
 
-## Pré-requisitos
+🔗 [Slides do Workshop](https://lnkd.in/dfi58i9r)
 
-Para rodar este projeto, você vai precisar das seguintes ferramentas:
+### 📘 Códigos em C - Primeira Atividade
 
-- [Node.js](https://nodejs.org/)
-- [Git](https://git-scm.com/)
+Primeira atividade prática em **C** durante o curso de ADS na **UNICEPLAC**. Exercícios práticos para aprimorar a lógica de programação e fundamentos.
 
-Também é recomendado o uso de um bom editor de código, como [VSCode](https://code.visualstudio.com/).
+🔗 [Códigos da Atividade](https://lnkd.in/d9dXqvm4)
 
-## Instalação
+## 🔧 Habilidades Técnicas
 
-Siga os passos abaixo para rodar o projeto localmente.
+- **Linguagens**: C, HTML, CSS
+- **Ferramentas de Desenvolvimento**: FileZilla, GDB Compiler
+- **Design e Edição**: After Effects, Photoshop, PowerPoint
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+## 🌐 Conecte-se comigo
 
+- LinkedIn: [Cauan Gabriel Matos Silva](https://www.linkedin.com/in/cauan-gabriel-matos-silva/)
+- GitHub: [CauanTheSeele33](https://github.com/CauanTheSeele33)
